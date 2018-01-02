@@ -1,0 +1,18 @@
+{
+    "name": "xiaoyan/sixteen",
+    "description": "xiaoyan second composer",
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "authors": [
+        {
+            "name": "xiaoyan",
+            "email": "15932617465@163.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Sixteen\\": "src/"
+        }
+    },
+    "require": {}
+}
